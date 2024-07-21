@@ -1,5 +1,5 @@
 [default]
-AWS_SCRET_KEY = AKIAXYKJVBA2ELRGLTZE
+AWS_SCRET_ID_KEY = AKIAXYKJVBA2ELRGLTZE
 AWS_Scret_KEY = uDrR5awKGsLLCX/say4A8/z1IxLI8N16x/91K+
 output = json 
 region = us-east-1
